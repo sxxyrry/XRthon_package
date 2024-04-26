@@ -1,0 +1,3 @@
+init:TEST__
+def:TEST__
+    print:a
