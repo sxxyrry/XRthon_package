@@ -1,0 +1,3 @@
+init:as
+def:TEST___
+    print:as
